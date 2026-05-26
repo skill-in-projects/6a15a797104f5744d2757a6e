@@ -1,9 +1,16 @@
 # FoodRoute - Frontend
 
-## GitHub Pages
+## Frontend Deployment
 
-**URL:** https://skill-in-projects.github.io/6a15a797104f5744d2757a6e/
+**GitHub Pages URL:** https://skill-in-projects.github.io/6a15a797104f5744d2757a6e/
 
-## Stack
+## Backend API
 
-React + Vite. Run `npm install` then `npm run dev` or `npm start`. Use `npm run lint` and `npm run format` for ESLint and Prettier.
+**API URL:** https://webapi6a15a797104f5744d2757a6e-production.up.railway.app
+
+## Project Structure
+
+- `index.html` - Main landing page
+- `config.js` - API configuration
+- `style.css` - Styling
+
